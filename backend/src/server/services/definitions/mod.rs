@@ -233,6 +233,7 @@ pub mod freeipa;
 pub mod kerberos;
 pub mod keycloak;
 pub mod ldap;
+pub mod tinyauth;
 pub mod vault;
 pub mod vaultwarden;
 
